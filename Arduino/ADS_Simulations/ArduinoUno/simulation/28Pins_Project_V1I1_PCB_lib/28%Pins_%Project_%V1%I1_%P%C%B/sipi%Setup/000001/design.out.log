@@ -1,0 +1,29 @@
+
+Starting the DC solver at Sat Apr 25 00:07:17 2020
+Creating the DC circuit
+..parsing the options file 
+..parsing the layout file 
+..parsing the stimulus file 
+..extracting the substrate 
+Initializing electric analysis
+Electric analysis
+..loading the electric component models
+..matrix size: 47178
+..loading the matrix equation
+..solving the matrix equation
+.........|.........|.........|.........|
+..max voltage: 4.99997
+..writing the output files
+Electric N-port analysis
+..number of ports: 8
+..loading the electric component models
+..matrix size: 47178
+..loading the matrix equation
+..solving the matrix equation
+.........|.........|.........|.........|
+..writing the model file
+DC solver resources
+..elapsed time: 5.0 s
+..user time: 3.7 s
+..physical memory: 111 MB
+

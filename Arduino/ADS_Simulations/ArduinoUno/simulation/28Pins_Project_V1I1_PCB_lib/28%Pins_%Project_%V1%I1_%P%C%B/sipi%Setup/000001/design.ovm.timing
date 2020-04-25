@@ -1,0 +1,29 @@
+Generating Mesh	4.18909
+Generating Mesh\Assigning Materials 	0.085029
+Generating Mesh\Checking surface mesh consistency	0.0485264
+Generating Mesh\Computing Aabb 	0.0008869
+Generating Mesh\Convert Global Mesh into Local Meshes	0.0924091
+Generating Mesh\Convert Global Mesh into Local Meshes\Stabilizing mesh	0.0001921
+Generating Mesh\Generating surface mesh 	0.856149
+Generating Mesh\Generating surface mesh \Assigning properties	0.0540407
+Generating Mesh\Generating surface mesh \Faceting	0.798121
+Generating Mesh\Reading Design 	0.45547
+Generating Mesh\Refining Surface Mesh	2.3646
+Generating Mesh\Refining Surface Mesh\Checking via	0.0003249
+Generating Mesh\Refining Surface Mesh\Convert Local Mesh to Global Mesh	0.151051
+Generating Mesh\Refining Surface Mesh\Detecting Connectivity Problems	0.0618646
+Generating Mesh\Refining Surface Mesh\Insert pins MT	0.714285
+Generating Mesh\Refining Surface Mesh\Locating Pins	0.0916917
+Generating Mesh\Refining Surface Mesh\Locating Pins\Locating instances on layers	0.0392801
+Generating Mesh\Refining Surface Mesh\Locating Pins\Locating pins on layers	0.0523771
+Generating Mesh\Refining Surface Mesh\Looking for Electrically Isolated Patches 	0.103748
+Generating Mesh\Refining Surface Mesh\Mark electrical interconnects	0.0632762
+Generating Mesh\Refining Surface Mesh\Marking Degenerate Elements	0.0327882
+Generating Mesh\Refining Surface Mesh\Marking Vias	0.0133162
+Generating Mesh\Refining Surface Mesh\Marking thickness for non-circular vias	0.000966
+Generating Mesh\Refining Surface Mesh\Pruning Surface Mesh 	0.114218
+Generating Mesh\Refining Surface Mesh\Recovering surface attributes 	0.0033442
+Generating Mesh\Refining Surface Mesh\Writing ASCII surface mesh file 	0.826605
+Generating Mesh\Refining Surface Mesh\Writing BINARY surface mesh file 	0.0761845
+Shutting down modeling environment	0.365843
+Starting modeling environment	0.0488345

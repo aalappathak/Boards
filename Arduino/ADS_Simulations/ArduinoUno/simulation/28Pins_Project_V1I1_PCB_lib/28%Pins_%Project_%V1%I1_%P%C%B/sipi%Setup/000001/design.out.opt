@@ -1,0 +1,40 @@
+OptFile 1.0
+
+//--- process options -----------------------------------
+Process.multiThreading: 1
+Process.maxThreads: 4
+Process.resources: 1
+
+//--- substrate options ---------------------------------
+Substrate.mesh: 1
+Substrate.meshDensity: 1
+Substrate.maxDensity: 100
+Substrate.connection: 1
+
+//--- thermal options -----------------------------------
+Thermal.reference: 0
+Thermal.convection: 50
+Thermal.conduction: 0.9
+Thermal.jouleLoss: 1
+Thermal.deviceLoss: 1
+
+//--- solver options ------------------------------------
+Solver.nportAnalysis: 1
+Solver.maxIterations: 5
+Solver.deltaVoltage: 0.01
+Solver.deltaTemperature: 1
+
+//--- matrix options ------------------------------------
+Matrix.package: 2
+Matrix.loader: 0
+Matrix.solver: 0
+Matrix.tolerance: 1e-08
+Matrix.residual: 0
+Matrix.verbose: 0
+Matrix.vtkFiles: 0
+
+//--- output options ------------------------------------
+Output.vtkFiles: 0
+Output.logFiles: 0
+Output.binary: 1
+

@@ -1,0 +1,21 @@
+Fri Apr 24 23:58:49 2020
+Reading ODB file "F:/FedevelAcademy/Learn to Design your own Board/Files/ArduinoUno/28Pins_Project_V1I1/Project Outputs for 28Pins_Project_V1I1/ODB/28Pins_Project_V1I1_PCB.zip".
+
+Warnings occurred during ODB file load:
+
+File not found at : F:/FedevelAcademy/Learn to Design your own Board/Files/ArduinoUno/28Pins_Project_V1I1/Project Outputs for 28Pins_Project_V1I1/ODB\28Pins_Project_V1I1_PCB\odb\steps\pcb\layers\comp_+_bot\components
+File not found at : F:/FedevelAcademy/Learn to Design your own Board/Files/ArduinoUno/28Pins_Project_V1I1/Project Outputs for 28Pins_Project_V1I1/ODB\28Pins_Project_V1I1_PCB\odb\steps\pcb\layers\comp_+_bot\components
+File not found at : F:/FedevelAcademy/Learn to Design your own Board/Files/ArduinoUno/28Pins_Project_V1I1/Project Outputs for 28Pins_Project_V1I1/ODB\28Pins_Project_V1I1_PCB\odb\steps\pcb\layers\comp_+_bot\components
+
+*** NOTE ABOUT SUBSTRATE ! *******************************************
+
+Substrate file '28Pins_Project_V1I1_PCB.stack' and materials file 'materials.matdb'
+are created at F:/FedevelAcademy/Learn to Design your own Board/Files/28Pins/!Design Files/V1I1/28Pins_Project_V1I1/ADS_Simulations/ArduinoUno/28Pins_Project_V1I1_PCB_lib.
+
+Layers of type DOCUMENT are not added in layer stackup.
+Substrate information such as layer thickness and dielectric value has been set
+to default values. This can be edited in 
+Substrate Editor (Technology > Material Definitions...).
+**********************************************************************
+
+Import Complete

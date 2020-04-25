@@ -1,0 +1,14 @@
+InstanceList size is 7
+Found 4 instances, 7 instances overlapped with other pins or instances
+
+326	R27	Found,growthperc=0,findBufferLength=205,preferential=1, layerIds=[5], stackIds=[1], position= (0.03285,0.0062,0.0016)-(0.03415,0.0088,0.00163455), inputPosition= (0.03285,0.0062,0.0016)-(0.03415,0.0088,0.00163455)
+326	R27	Overlapped with 6,growthperc=0,findBufferLength=205,preferential=1, layerIds=[5], stackIds=[1], position= (0.03285,0.0062,0.0016)-(0.03415,0.0088,0.00163455), inputPosition= (0.03285,0.0062,0.0016)-(0.03415,0.0088,0.00163455)
+334	L1	Overlapped with 21,growthperc=0,findBufferLength=316,preferential=1, layerIds=[5], stackIds=[1], position= (0.000550001,0.0049,0.0016)-(0.00325,0.0101,0.00163455), inputPosition= (0.000550001,0.0049,0.0016)-(0.00325,0.0101,0.00163455)
+390	J7	Found,growthperc=0,findBufferLength=533,preferential=1, layerIds=[5], stackIds=[1], position= (0.00120128,0.0161024,0.0016)-(0.0055476,0.0240976,0.00163455), inputPosition= (0.00120128,0.0161024,0.0016)-(0.0055476,0.0240976,0.00163455)
+390	J7	Overlapped with 139,growthperc=0,findBufferLength=533,preferential=1, layerIds=[5], stackIds=[1], position= (0.00120128,0.0161024,0.0016)-(0.0055476,0.0240976,0.00163455), inputPosition= (0.00120128,0.0161024,0.0016)-(0.0055476,0.0240976,0.00163455)
+394	U1	Found,growthperc=0,findBufferLength=473,preferential=1, layerIds=[5], stackIds=[1], position= (0.028245,0.011573,0.0016)-(0.062865,0.021193,0.00163455), inputPosition= (0.028245,0.011573,0.0016)-(0.062865,0.021193,0.00163455)
+394	U1	Overlapped with 189,growthperc=0,findBufferLength=473,preferential=1, layerIds=[5], stackIds=[1], position= (0.028245,0.011573,0.0016)-(0.062865,0.021193,0.00163455), inputPosition= (0.028245,0.011573,0.0016)-(0.062865,0.021193,0.00163455)
+408	J5	Found,growthperc=0,findBufferLength=196,preferential=1, layerIds=[5], stackIds=[1], position= (0.00169,0.046394,0.0016)-(0.00847,0.050634,0.00163455), inputPosition= (0.00169,0.046394,0.0016)-(0.00847,0.050634,0.00163455)
+408	J5	Overlapped with 239,growthperc=0,findBufferLength=196,preferential=1, layerIds=[5], stackIds=[1], position= (0.00169,0.046394,0.0016)-(0.00847,0.050634,0.00163455), inputPosition= (0.00169,0.046394,0.0016)-(0.00847,0.050634,0.00163455)
+419	FB2	Overlapped with 289,growthperc=0,findBufferLength=138,preferential=1, layerIds=[5], stackIds=[1], position= (0.0452,0.00505,0.0016)-(0.048,0.00635,0.00163455), inputPosition= (0.0452,0.00505,0.0016)-(0.048,0.00635,0.00163455)
+420	FB3	Overlapped with 290,growthperc=0,findBufferLength=156,preferential=1, layerIds=[5], stackIds=[1], position= (0.04305,0.0056,0.0016)-(0.04435,0.0084,0.00163455), inputPosition= (0.04305,0.0056,0.0016)-(0.04435,0.0084,0.00163455)
