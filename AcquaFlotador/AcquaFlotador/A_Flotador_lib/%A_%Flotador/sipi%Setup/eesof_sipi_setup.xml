@@ -1,0 +1,15 @@
+<eesof_sipi_setup>
+ <version>
+  <actual>0</actual>
+  <minimum>0</minimum>
+ </version>
+ <layout>
+  <lib>A_Flotador_lib</lib>
+  <cell>A_Flotador</cell>
+  <view>layout</view>
+ </layout>
+ <substrate>
+  <lib>A_Flotador_lib</lib>
+  <name>A_Flotador</name>
+ </substrate>
+</eesof_sipi_setup>

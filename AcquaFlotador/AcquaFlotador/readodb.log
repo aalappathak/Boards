@@ -1,0 +1,21 @@
+Sat Apr 25 14:23:05 2020
+Reading ODB file "F:/AltiumDesigner_19/Projects/AcquaFlotador/PCB_Project/Project Outputs for A_Flotador/ODB/A_Flotador.zip".
+
+Warnings occurred during ODB file load:
+
+File not found at : F:/AltiumDesigner_19/Projects/AcquaFlotador/PCB_Project/Project Outputs for A_Flotador/ODB\A_Flotador\odb\steps\pcb\layers\comp_+_bot\components
+File not found at : F:/AltiumDesigner_19/Projects/AcquaFlotador/PCB_Project/Project Outputs for A_Flotador/ODB\A_Flotador\odb\steps\pcb\layers\comp_+_bot\components
+File not found at : F:/AltiumDesigner_19/Projects/AcquaFlotador/PCB_Project/Project Outputs for A_Flotador/ODB\A_Flotador\odb\steps\pcb\layers\comp_+_bot\components
+
+*** NOTE ABOUT SUBSTRATE ! *******************************************
+
+Substrate file 'A_Flotador.stack' and materials file 'materials.matdb'
+are created at F:/AltiumDesigner_19/Projects/AcquaFlotador/PCB_Project/AcquaFlotador/A_Flotador_lib.
+
+Layers of type DOCUMENT are not added in layer stackup.
+Substrate information such as layer thickness and dielectric value has been set
+to default values. This can be edited in 
+Substrate Editor (Technology > Material Definitions...).
+**********************************************************************
+
+Import Complete

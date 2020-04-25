@@ -1,0 +1,51 @@
+<ADSWorkspace Revision="3" Version="100">
+    <Workspace Name="">
+        <Library Name="ads_standard_layers" />
+        <Library Name="ads_schematic_layers" />
+        <Library Name="empro_standard_layers" />
+        <Library Name="ads_builtin" />
+        <Library Name="ads_standard_layers_ic" />
+        <Library Name="ads_schematic_layers_ic" />
+        <Library Name="ads_schematic_ports_ic" />
+        <Library Name="ads_rflib" />
+        <Library Name="ads_sources" />
+        <Library Name="ads_simulation" />
+        <Library Name="ads_tlines" />
+        <Library Name="ads_bondwires" />
+        <Library Name="ads_datacmps" />
+        <Library Name="ads_behavioral" />
+        <Library Name="ads_textfonts" />
+        <Library Name="ads_common_cmps" />
+        <Library Name="ads_designs" />
+        <Library Name="ads_verification_test_bench" />
+        <Library Name="ads_pelib" />
+        <LibraryDefs Name="lib.defs" />
+        <Library Name="AcquaFlotador_lib" />
+        <Preferences Name="layout.prf" />
+        <Preferences Name="schematic.prf" />
+        <ConfigFile Name="de_sim.cfg" />
+        <ConfigFile Name="hpeesofsim.cfg" />
+        <Library Name="A_Flotador_lib" />
+        <Log Name="readodb.log" />
+        <Cell Name="A_Flotador_lib:A_Flotador" />
+        <Substrate Name="A_Flotador_lib:A_Flotador.subst" />
+        <Substrate Name="A_Flotador_lib:tech.subst" />
+        <Folder Name="A_Flotador_lib_Components">
+            <Cell Name="A_Flotador_lib:100u___10V_C_ALU_C_SIZE" />
+            <Cell Name="A_Flotador_lib:Green_LED_0603" />
+            <Cell Name="A_Flotador_lib:10118193-0001LF_MICROUSB" />
+            <Cell Name="A_Flotador_lib:2u2___2A_C1210_IND" />
+            <Cell Name="A_Flotador_lib:470R_R0805" />
+            <Cell Name="A_Flotador_lib:0R_R0805" />
+            <Cell Name="A_Flotador_lib:1k_R0805" />
+            <Cell Name="A_Flotador_lib:100k_R0805" />
+            <Cell Name="A_Flotador_lib:SPDT" />
+            <Cell Name="A_Flotador_lib:MPX5010DP" />
+            <Cell Name="A_Flotador_lib:LM358N" />
+            <Cell Name="A_Flotador_lib:1uF___25V_C0805" />
+            <Cell Name="A_Flotador_lib:470pF___50V_C0805" />
+            <Cell Name="A_Flotador_lib:0_01uF___50V_C0805" />
+        </Folder>
+        <Log Name="search_history.log" />
+    </Workspace>
+</ADSWorkspace>

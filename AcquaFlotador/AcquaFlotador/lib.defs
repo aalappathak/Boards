@@ -1,0 +1,5 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+DEFINE AcquaFlotador_lib AcquaFlotador_lib
+ASSIGN AcquaFlotador_lib libMode shared
+DEFINE A_Flotador_lib A_Flotador_lib
+ASSIGN A_Flotador_lib libMode shared

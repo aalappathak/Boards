@@ -1,0 +1,13 @@
+CSV text has been written to file : AFlotador_SchLib.csv
+
+Library Component Count : 6
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+1N4004G             DIODE GEN PURP 400V 1A DO41
+Component_1         
+LM358N/NOPB         IC OPAMP GP 1MHZ 8DIP
+MPX5010DP           NXP         MPX5010DP             Pressure Sensor, Differential, 450 mV/kPa, 0 kPa, 10 kPa, 4.75 V, 5.25 V
+OS102011MS2QN1      C & K COMPONENTS         OS102011MS2QN1             Slide Switch, SPDT, On-On, Through Hole, OS Series, 100 mA
+UA7805CKCS          TEXAS INSTRUMENTS         UA7805CKCS            Linear Voltage Regulator, Fixed, 7V To 25V In, 5V And 1.5A Out, TO-220-3
